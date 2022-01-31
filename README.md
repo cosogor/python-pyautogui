@@ -1,4 +1,4 @@
-# python-pyautogui
+# python-pyautogui clicker
 python-pyautogui  clicker samples
 
 #doc
